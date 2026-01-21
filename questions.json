@@ -1,0 +1,7 @@
+[
+    {
+        "id": 1,
+        "pregunta": "¿Qué lenguaje se usa para esta API?",
+        "respuesta": "Node.js con Express"
+    }
+]
