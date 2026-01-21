@@ -1,7 +1,22 @@
 [
     {
-        "id": 1,
-        "pregunta": "¿Qué lenguaje se usa para esta API?",
-        "respuesta": "Node.js con Express"
+        "q": "En el contexto de sostenibilidad, ¿qué modelo económico se basa en un flujo unidireccional de 'extracción-producción-consumo-eliminación'?",
+        "options": [
+            "Modelo de Negocio Circular",
+            "Economía Circular",
+            "Economía Sostenible",
+            "Modelo de Economía Lineal"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "¿Qué proporción del impacto ecológico total de un producto se establece desde la etapa inicial de su diseño?",
+        "options": [
+            "Menos del 50%",
+            "Aproximadamente el 60%",
+            "Más del 80%",
+            "El 100% ocurre solo en la etapa de desecho"
+        ],
+        "answer": 2
     }
 ]
